@@ -1,11 +1,18 @@
-.subtitle-1{
+.subtitle{
     font-weight: 200;
+    color: black;
+}
+
+.title{
+    color: black;
 }
 
 
 header{
     margin-bottom: 40px;
 }
+
+
 
 .row > *{
     padding: 30px 10px;
