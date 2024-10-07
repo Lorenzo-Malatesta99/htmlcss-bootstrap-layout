@@ -1,0 +1,26 @@
+.subtitle-1{
+    font-weight: 200;
+}
+
+
+header{
+    margin-bottom: 40px;
+}
+
+.row > *{
+    padding: 30px 10px;
+    color: white;
+}
+
+main > *{
+    margin: 30px 0px;
+}
+
+
+
+/* debug */
+/* .row > *{
+    border: 1px solid red;
+} */
+
+
